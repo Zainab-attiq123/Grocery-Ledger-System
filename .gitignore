@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+store.db
+
+venv/
+fastapi_env/
+
+.idea/
+.vscode/
